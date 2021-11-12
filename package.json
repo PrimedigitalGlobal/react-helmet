@@ -3,7 +3,7 @@
   "description": "A document head manager for React",
   "version": "6.1.0",
   "main": "./lib/Helmet.js",
-  "module": "./src/Helmet.js",
+  "module": "./es/Helmet.js",
   "author": "NFL <engineers@nfl.com>",
   "contributors": [
     "Chris Welch <chris.welch@nfl.com>",
