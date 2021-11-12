@@ -93,6 +93,7 @@
     "pretest": "npm run clean && npm run lint",
     "commit": "git-cz",
     "build": "rollup -c",
+    "postinstall": "npm run build",
     "prepublish": "npm run build"
   },
   "config": {
